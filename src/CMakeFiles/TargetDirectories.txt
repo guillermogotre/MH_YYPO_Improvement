@@ -1,0 +1,4 @@
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/CMakeFiles/rebuild_cache.dir
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/CMakeFiles/edit_cache.dir
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/CMakeFiles/example_ls.dir
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/CMakeFiles/localsearch.dir

@@ -1,0 +1,4 @@
+/home/guillermo/Programs/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" "/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs

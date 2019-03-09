@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ls"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_ls">
+				<Option output="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/example_ls" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 example_ls"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_ls/fast">
+				<Option output="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/example_ls" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 example_ls/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="localsearch">
+				<Option output="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/liblocalsearch.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 localsearch"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="localsearch/fast">
+				<Option output="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/liblocalsearch.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 localsearch/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guillermo/UGR/MH/TRABAJO\ FINAL/INFO/localsearchs/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/AYYOPBase.cpp">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/AYYOPBase.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/Algoritmo.cpp">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/Algoritmo.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPBase.cpp">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPBase.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMeme1.cpp">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMeme1.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMemeDif.cpp">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMemeDif.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMemeDifStop.cpp">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMemeDifStop.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/cec2014_func.cpp">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/cmaeshan.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/cmaeshan.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/domain.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/domain.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/example.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/main.cpp">
+			<Option target="example_ls"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/origcmaes.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/origcmaes.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problemcec2014.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problemcec2014.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/simplex.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/simplex.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/solis.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/solis.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/srandom.cc">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/srandom.h">
+			<Option target="localsearch"/>
+		</Unit>
+		<Unit filename="/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

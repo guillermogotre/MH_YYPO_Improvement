@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3  -rdynamic CMakeFiles/example_ls.dir/main.cpp.o  -o example_ls -Wl,-rpath,"/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs" liblocalsearch.so 

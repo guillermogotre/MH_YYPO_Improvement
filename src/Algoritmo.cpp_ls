@@ -1,0 +1,37 @@
+//
+// Created by guillermo on 6/11/18.
+//
+
+#include "Algoritmo.h"
+
+#include "localsearch.h"
+#include "cmaeshan.h"
+
+unsigned realea::Algoritmo::apply(tChromosomeReal &sol, tFitness &fitness, unsigned itera) {
+
+    ILocalSearch *ls;
+    ILSParameters *ls_options;
+
+    CMAESHansen *cmaes = new CMAESHansen("cmaesinit.par");
+    cmaes->searchRange(0.1);
+
+    ls = cmaes;
+    ls->setProblem(m_problem);
+    ls->setRandom(m_random);
+
+    ls_options = ls->getInitOptions(sol);
+
+    tFitness before,after,diff;
+
+    before = fitness;
+
+    unsigned evals = ls->apply(ls_options, sol, fitness, itera);
+    cout << "Evals: " << evals << endl;
+
+    after = fitness;
+    diff = before-after;
+
+    cout <<"Improvement: " <<std::scientific <<before <<" -> " <<std::scientific <<after;
+    cout <<" [" <<std::scientific <<diff <<"]" <<endl;
+
+}

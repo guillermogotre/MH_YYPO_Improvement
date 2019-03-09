@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/AYYOPBase.h
+problem.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.h
+random.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPBase.h
+problem.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.h
+random.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMeme1.h
+problem.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.h
+random.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMemeDif.h
+problem.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.h
+random.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMemeDifStop.h
+problem.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.h
+random.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/define.h
+iostream
+-
+real.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/real.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/domain.h
+real.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/real.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/main.cpp
+algorithm
+-
+numeric
+-
+problemcec2014.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problemcec2014.h
+random.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h
+srandom.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/srandom.h
+YYOPBase.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPBase.h
+AYYOPBase.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/AYYOPBase.h
+YYOPMeme1.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMeme1.h
+YYOPMemeDif.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMemeDif.h
+YYOPMemeDifStop.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/YYOPMemeDifStop.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.h
+signal.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/signal.h
+domain.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/domain.h
+define.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/define.h
+string
+-
+stdexcept
+-
+memory
+-
+memory
+-
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problemcec2014.h
+problem.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problem.h
+problemcec2014.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/problemcec2014.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/real.h
+vector
+-
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/signal.h
+list
+-
+cstddef
+-
+
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/srandom.h
+random.h
+/home/guillermo/UGR/MH/TRABAJO FINAL/INFO/localsearchs/random.h
+
